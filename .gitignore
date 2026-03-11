@@ -1,4 +1,6 @@
 *.png
 pictures/
 *.csv
+!a.png
+*.png
 
